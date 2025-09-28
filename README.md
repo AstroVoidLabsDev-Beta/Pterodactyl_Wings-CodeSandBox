@@ -59,7 +59,7 @@ systemctl start wings
 
 ### 9. Final Node Settings
 If your node doesn’t come online:
-- Go to: `https://ptero.example.com/admin/nodes/view/2/settings`
+- Go to: `https://ptero.example.com/admin/nodes/view/1/settings`
 - Change **Daemon Port** from `8080` → `443`
 - Save changes ✅
 
