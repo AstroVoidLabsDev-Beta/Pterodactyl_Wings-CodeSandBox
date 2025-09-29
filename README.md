@@ -1,3 +1,4 @@
+![Pterodactyl Banner](https://cdn.pterodactyl.io/logos/new/pterodactyl_logo_transparent.png)
 # 🚀 Pterodactyl Wings Installation Guide with SSL & Cloudflare Tunnel
 
 This repository provides a simple guide to installing and configuring **Pterodactyl Wings** with SSL certificates and Cloudflare tunneling.  
